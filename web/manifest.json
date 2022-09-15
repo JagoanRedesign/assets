@@ -1,0 +1,24 @@
+{
+    "name": "AllKpop.eu.org",
+    "short_name": "All Kpop",
+    "description": "All Kpop | Media Online Terupdate, Terbaru hari ini dari peristiwa, Kpop, Lifestyle, Olahraga, Kdrama",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTVOXHDqCvBQ2LgvdtZDjvDFXtE8PBQYhfXh8LMliMs4nBor94qiUn5vsLpLS3022lFpaXYtVQFxLX2iVoXEcuCGtabOBbbws5UgQO1C4zqsX1zH1lP5nR1PaQL2-il4KevLWaRbt_fiJrzceJsV0aAWmsiTCQjXTFAuMhTQB5_QJta_OC8VbHnzZ0/s512/allkpop.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTVOXHDqCvBQ2LgvdtZDjvDFXtE8PBQYhfXh8LMliMs4nBor94qiUn5vsLpLS3022lFpaXYtVQFxLX2iVoXEcuCGtabOBbbws5UgQO1C4zqsX1zH1lP5nR1PaQL2-il4KevLWaRbt_fiJrzceJsV0aAWmsiTCQjXTFAuMhTQB5_QJta_OC8VbHnzZ0/s512/allkpop.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "id": "https://www.allkpop.eu.org/",
+    "start_url": "https://www.allkpop.eu.org/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#009344",
+    "theme_color": "#009344"
+}
